@@ -1,2 +1,4 @@
-# Lightweight-Communications-and-Marshalling-Python-
+# Lightweight Communications and Marshalling
+
 Demonstration for LCM with the Python programming language. 
+
